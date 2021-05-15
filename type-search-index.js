@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"my.uum","l":"App"},{"p":"my.uum","l":"ConnectDB"},{"p":"my.uum","l":"MyBot"},{"p":"my.uum","l":"RegexMatches"},{"p":"my.uum","l":"Scrapping"},{"p":"my.uum","l":"Student"}];updateSearchResults();
